@@ -22,7 +22,7 @@ function Home() {
                     Enter Delivery Addresses
                   </button>
                   <button class="home-delivery-button">
-                    Deliver Now
+                    Deliver Later
                     <img src={chevronIcon} className="chevron-icon" alt="" />
                   </button>
                   <Link to="/browse" class="home-find-button">
