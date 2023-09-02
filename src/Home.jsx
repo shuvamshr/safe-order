@@ -26,7 +26,7 @@ function Home() {
                     <img src={chevronIcon} className="chevron-icon" alt="" />
                   </button>
                   <Link to="/browse" class="home-find-button">
-                    Find Nearby Restaurants
+                    Find Nearby Momo
                   </Link>
                 </div>
                 <div className="home-desc">
