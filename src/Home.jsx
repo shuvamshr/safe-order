@@ -30,7 +30,7 @@ function Home() {
                   </Link>
                 </div>
                 <div className="home-desc">
-                  <Link to="/browse">Click Here</Link> for your current location
+                  <Link to="/browse">Click Here</Link> for your current address
                 </div>
               </div>
               <div className="home-footer">
