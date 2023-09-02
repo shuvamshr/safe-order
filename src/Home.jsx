@@ -19,7 +19,7 @@ function Home() {
                 <div className="home-form-container">
                   <button class="home-address-button">
                     <img src={locationIcon} alt="" className="location-icon" />
-                    Enter Delivery Address
+                    Enter Delivery Addresses
                   </button>
                   <button class="home-delivery-button">
                     Deliver Now
