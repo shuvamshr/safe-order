@@ -15,7 +15,7 @@ function Home() {
             <div className="home-container">
               <img class="logo-white" src={logoWhite} alt="" />
               <div className="home-address-container">
-                <div className="home-title">Order Pizza To Your Door</div>
+                <div className="home-title">Order Momo To Your Door</div>
                 <div className="home-form-container">
                   <button class="home-address-button">
                     <img src={locationIcon} alt="" className="location-icon" />
