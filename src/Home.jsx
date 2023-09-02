@@ -15,7 +15,7 @@ function Home() {
             <div className="home-container">
               <img class="logo-white" src={logoWhite} alt="" />
               <div className="home-address-container">
-                <div className="home-title">Order Pizza To Your Door</div>
+                <div className="home-title">Order Momo To Your Door</div>
                 <div className="home-form-container">
                   <button class="home-address-button">
                     <img src={locationIcon} alt="" className="location-icon" />
@@ -26,7 +26,7 @@ function Home() {
                     <img src={chevronIcon} className="chevron-icon" alt="" />
                   </button>
                   <Link to="/browse" class="home-find-button">
-                    Find Nearby Restaurants
+                    Find Nearby Momo
                   </Link>
                 </div>
                 <div className="home-desc">
